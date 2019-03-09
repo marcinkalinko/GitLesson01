@@ -5,3 +5,5 @@ const number2 = 5;
 
 let add = number1 + number2;
 console.log(add);
+
+//Odejmowanie
